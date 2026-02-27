@@ -4,7 +4,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 
 const inter = Inter({ subsets: ["latin"] })
 
-const BASE_URL = "https://nextjs-3d-portfolio.vercel.app"
+const BASE_URL = "https://sample-3d-portfolio.thefstack.com"
 
 export const metadata = {
   metadataBase: new URL(BASE_URL),

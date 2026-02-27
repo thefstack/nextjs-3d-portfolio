@@ -6,7 +6,9 @@ An interactive, animated personal portfolio built with **Next.js 15**, **Three.j
 
 ## Live Demo
 
-> Deploy your own instance — see [Getting Started](#getting-started) below.
+**[sample-3d-portfolio.thefstack.com](https://sample-3d-portfolio.thefstack.com)**
+
+**Repository:** [github.com/thefstack/nextjs-3d-portfolio](https://github.com/thefstack/nextjs-3d-portfolio)
 
 ---
 
